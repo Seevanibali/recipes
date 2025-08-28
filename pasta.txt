@@ -2,12 +2,12 @@ Ingredients:
 Pasta
 Water
 Salt
-Ham
+Broccoli
 Cheese
 
 Procedure:
 Boil water
 Add salt and pasta
 Cook for ten mins
-Add ham and cheese
+Add broccoli and cheese
 Serve hot
